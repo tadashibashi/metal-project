@@ -1,0 +1,6 @@
+[submodule "lib/metal-cpp"]
+	path = lib/metal-cpp
+	url = https://github.com/bkaradzic/metal-cpp
+[submodule "lib/glfw"]
+	path = lib/glfw
+	url = https://github.com/glfw/glfw
